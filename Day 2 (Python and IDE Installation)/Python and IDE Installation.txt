@@ -1,0 +1,20 @@
+Download Python Using Below Link (Copy and Paste it In Your Browser):-
+
+https://www.python.org
+
+
+After Downloading Python :-
+Open Python Setup File, and During Installation Make Sure to Check(tick) the "Add Python to Path" Option.
+
+
+After Python Installation, We need to Download IDE or Text Editor To Run Python Programs on Our System :-
+
+Pycharm IDE Link :-
+https://www.jetbrains.com/pycharm/download/
+
+Visual Studio Code Text Editor :-
+https://code.visualstudio.com/download
+
+
+It is Up to You to choose whether IDE or Text Editor.
+I am using Visual Studio Code Text Editor for Python.
