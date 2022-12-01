@@ -1,0 +1,11 @@
+Our First Program :-
+
+Today we will write our first ever python program from scratch. It will consist of a bunch of print statements. print() function can be used to print something on the console in python.
+
+
+Example :-
+print("Hello World")
+
+
+Output :-
+Hello World
