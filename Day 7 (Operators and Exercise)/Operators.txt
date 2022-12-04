@@ -1,0 +1,10 @@
+Operator - An Operator is a special symbol that can be used to perform mathematical operations.
+
+There are 7 Operators in Python :-
+1. Arithmetic Operators
+2. Assignment Operators
+3. Comparison Operators
+4. Logical Operators
+5. Identity Operators
+6. Membership Operators
+7. Bitwise Operators
