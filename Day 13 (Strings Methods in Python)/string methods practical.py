@@ -140,7 +140,7 @@ print()
 
 
 
-# 16. upper()
+# 16. isupper()
 # The isupper() method returns True if all the characters in the string are upper case, else it returns False.
 # Example
 str16 = "HELLO HOW ARE YOU?"
