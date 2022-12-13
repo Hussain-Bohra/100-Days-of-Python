@@ -1,0 +1,28 @@
+--> if-elif-else statements :-
+• We can add multiple conditions using if-elif statements. It works like this if the condition of "if-statement" is false then check the condition of "elif statement" and if it is also false, then execute the code of else statement.
+
+• Syntax :-
+if(condition1):
+    statement
+
+elif(condition2):
+    statement
+
+else:
+    statement
+
+
+• Example :-
+number = 25
+if(number == 25):
+    print(number,"is Equals to 25")
+
+elif(number > 20):
+    print(number,"is Greater than 20")
+
+else:
+    print(number,"is Less Than 20")
+
+
+• Output :-
+25 is Equals to 25

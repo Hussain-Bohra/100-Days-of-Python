@@ -1,0 +1,37 @@
+--> nested-if statements :-
+• We also can add if-statement inside an if-statement. 
+
+• Syntax :-
+if(condition):
+    if(condition2):
+        statement
+    else:
+        statement
+
+else:
+    statement
+
+
+• Example :-
+name = "john"
+if(name == "john"):
+    age = int(input("Enter the Age: "))
+
+    if(age == 50):
+        print("Details Matched")
+        print("Name is: ", name1)
+        print("Age is: ", age)
+
+    else:
+        print("Only Names are Matched")
+        print("Age is Different")
+
+else:
+    print("Names are not Matched")
+
+
+• Output :-
+Enter the Age: 50
+Details Matched
+Name is: john
+Age is: 50

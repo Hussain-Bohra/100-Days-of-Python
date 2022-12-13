@@ -1,0 +1,21 @@
+--> if-else Statements :-
+• The if-else statement is used to execute either the true part or false part of a given condition, it means if the condition is true then it execute the code written in if-statment, and if the condition is false then it execute the code written in else statement.
+
+• Syntax :-
+if(condition):
+    statement
+
+else:
+    statement
+
+
+• Example :-
+age = 15
+if(age >= 18):
+    print("You are Eligible for Driving")
+
+else:
+    print("You are Not Eligible for Driving")
+
+• Output :-
+You are Not Eligible for Driving

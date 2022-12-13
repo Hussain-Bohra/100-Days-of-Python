@@ -1,0 +1,31 @@
+--> Python Supports following Operators in Conditional Statements :-
+a == b    # Equals to
+a > b     # Greater than
+a >= b    # Greater than or Equals to
+a < b     # Less than
+a <= b    # Less than or Equals to
+a != b    # Not Equals to 
+
+--> If Statements :-
+• If Statement is a conditional statement in python, that is used to determine whether a block of code will be execute or not, it means if the program finds the condition defined in the if-statement to be true, then it will execute the code written inside the if-statement.      
+• We use 'if' keyword to write if-statement.
+
+• Syntax :-
+if (condition):
+    #Indentation
+    statement
+
+
+• Example :-
+age = 18
+if(age >= 18):
+    print("You are Eligible for Driving")
+
+• Output :-
+You are Eligible for Driving
+
+
+--> Indentation :-
+• You can see we use white spaces to write a print statement in if-condition block, that is called Indentation, and it is necessary because python relies on indentation to define the scope of code.
+• Note: colon (:) is must after if, else, and elif conditions.
+• Other programming languages often use curly brackets for this purpose.
