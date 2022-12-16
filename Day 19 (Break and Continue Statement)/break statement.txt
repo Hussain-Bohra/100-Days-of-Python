@@ -1,0 +1,19 @@
+--> break statement :-
+• The break statement enables a program to skip over a part of the code. A break statement terminates the very loop it lies within.
+
+Example :-
+for i in range(1,10):
+    print(i)
+    if(i == 5):
+        break
+
+print("Program Execution Done")
+
+
+Output :-
+1
+2
+3
+4
+5
+Program Execution Done
