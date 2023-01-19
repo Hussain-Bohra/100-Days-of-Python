@@ -1,0 +1,3 @@
+Hello This is newfile, created using 'write' mode.
+
+Hello Guys, I hope you understand basics of File Handling
